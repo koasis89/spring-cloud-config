@@ -4,3 +4,5 @@ token:
 
 gateway:
   ip: 192.168.0.96
+greeting:
+  message: Welcome to the Simple E-commerce.
