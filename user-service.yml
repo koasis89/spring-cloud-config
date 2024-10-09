@@ -7,7 +7,8 @@ spring:
 
 token:
   expiration_time: 864000000
-  secret: user_token_canonical_ubuntu_main
+  secret: '{cipher}AQCBUNFhduECbULvHg3FphGCOlieajKuTm5L2fR1H3LWWFBtJY0s+Xw8XWdh7NkX/1R2K4PtkjlAcCxAu5yhFy7pXlizm0aiDzG5pE4JBFANtsnNFrYCFe23ASpgqzkCs0gw4tKqToK+O02UEUSwi7ZH9h778sENxs/E30JO7rqX8RFIo5Yb/RLSvgSWnGq6DqMUGt7TDt3qSCtq4x/TKexPaTbQKCikR5D/SqI7mHLAJrM4CbtN4Y6ZDgrPf8bJPrxqijAhmEQdRpOxdTCwfEI6r8Iv4rHnzY5O3uqk1cadrHwM7KFUuYy77MVWQyIybvfyh0T5PUi5303zVl35OvnMO8ICuEGbQJ63lFWMC49/FdYGSP1Dc2Q2YvkcVKaemYaZGRjFjHfWvudfrXedEGtSe54mg+3uleLb9RlAj4kogQ=='
+  #user_token_canonical_ubuntu_main
 
 #gateway:
 #  ip: 192.168.0.96
